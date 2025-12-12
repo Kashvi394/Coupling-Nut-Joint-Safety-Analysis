@@ -20,7 +20,8 @@ MATLAB App Designer (GUI development)
 
 Engineering Handbooks (validation & reference)
 
-## Extended Description
+
+### Extended Description
 
 The App Designer interface (CouplingNutApp4.mlapp) integrates all major calculation functions internally. However, two external functions must be present on the same MATLAB path for full tool operation:
 
